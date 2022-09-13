@@ -1,0 +1,11 @@
+.contacts-item {
+  font-size: 18px;
+  color: rgb(62, 59, 59);
+}
+.contacts-item:not(not:last-child) {
+  margin-bottom: 15px;
+}
+.contacts-number {
+  margin-right: 15px;
+  color: black;
+}
